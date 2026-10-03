@@ -1,0 +1,12 @@
+site_name: Texas Constitution
+site_description: The Constitution of the State of Texas
+# After creating your repo, set this to your GitHub repo URL:
+# repo_url: https://github.com/YOUR-NAME/texas-constitution
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: indigo
+nav:
+  - Home: index.md
+  - Constitution: constitution.md
